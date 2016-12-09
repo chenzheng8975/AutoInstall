@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">apk自动安装</string>
+
+    <string name="download_file">下载文件</string>
+    <string name="download_describe">描述：天气宝</string>
+    <string name="download_completed">下载结束</string>
+</resources>
